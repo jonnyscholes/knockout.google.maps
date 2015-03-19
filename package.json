@@ -12,6 +12,10 @@
         "google",
         "maps"
     ],
+    "main": "dist/knockout.google.maps-0.2.0.js",
+    "dependencies": {
+        "knockout": ">=2.0.0"
+    },
     "devDependencies": {
         "grunt": "~0.4.2",
         "grunt-contrib-concat": "~0.1.2",
